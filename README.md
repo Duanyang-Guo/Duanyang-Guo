@@ -5,4 +5,4 @@ My early career focused on Internet protocols and optical networking, including 
 
 Today, my interests converge around protocol economics and decentralized market infrastructure. I am leading an independent research initiative, **Temporal Liquidity Market (TLM)**, exploring how temporal preferences can become protocol-visible economic signals for blockchain protocols, with Ethereum serving as the initial research platform.
 
-My work brings together distributed systems, quantitative finance, market microstructure, mechanism design, and blockchain protocols to investigate the next generation of decentralized market infrastructure.
+My work brings together distributed systems, quantitative finance, market microstructure, mechanism design, and blockchain protocols.
