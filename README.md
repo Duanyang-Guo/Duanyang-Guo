@@ -1,5 +1,5 @@
 ## Hi there 👋
-I have spent more than two decades designing large-scale distributed systems and electronic market infrastructure across networking, quantitative finance, and blockchain.
+I have spent more than two decades designing large-scale distributed systems and electronic market infrastructure across networking, quantitative finance, and blockchains.
 
 My early career focused on Internet protocols and optical networking, including protocol software engineering and contributions to IETF-related technologies. I later worked as a quantitative developer, software architect, and portfolio manager, building trading platforms, quantitative research infrastructure, and investment strategies across traditional finance and digital assets.
 
