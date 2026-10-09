@@ -1,1 +1,1 @@
-I have done research on IP networking protocols (as co-author RFC 4328), and lately on Temporal Liquidity Market (TLM) for blockchains. I am a hands-on software engineer building high-performance distributed systems including market-making systems and quantitative research platforms.
+I have done research on IP networking protocols (as co-author RFC 4328), and lately on Temporal Liquidity Market (TLM) for blockchains. I am a hands-on software engineer building high-performance distributed systems including market-making systems and quantitative research/trading platforms.
